@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Adventure</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your-company.Adventure</string>
+	<string>com.vrushali.Adventure</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
